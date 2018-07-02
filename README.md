@@ -1,4 +1,4 @@
-<b>Javascript feladatok</b>
+## Javascript feladatok
 
 <a href="https://github.com/agiwunderlich/JS_02_01_Szamologep">02_01 Számológép</a>
 
